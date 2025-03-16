@@ -12,3 +12,9 @@ doc_build/
 .vscode/*
 !.vscode/extensions.json
 .idea
+
+# Lockfile
+package-lock.json
+npm-shrinkwrap.json
+yarn.lock
+pnpm-lock.yaml
