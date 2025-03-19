@@ -1,1 +1,12 @@
-["index"]
+[
+  "index",
+  "00-assembly",
+  "01-basic-io.md",
+  "02-timer-and-interrupt.md",
+  "03-adc.md",
+  "04-ds1302.md",
+  "05-ds18b20.md",
+  "06-dac-and-spi.md",
+  "07-fir-filter.md",
+  "08-iir-filter.md"
+]
