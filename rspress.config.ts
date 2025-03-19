@@ -1,16 +1,12 @@
-import * as path from 'node:path';
 import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
-  root: path.join(__dirname, 'docs'),
-  title: 'My Site',
+  title: 'DSP 算法与硬件系统实验',
   icon: '/rspress-icon.png',
   lang: 'zh',
-  logo: {
-    light: '/rspress-light-logo.png',
-    dark: '/rspress-dark-logo.png',
-  },
+  logoText: 'DSP 算法与硬件系统实验',
   themeConfig: {
+    lastUpdated: true,
     // socialLinks: [
     //   {
     //     icon: 'github',
@@ -41,5 +37,7 @@ export default defineConfig({
         },
       },
     ],
+    enableContentAnimation: true,
+    enableAppearanceAnimation: true,
   },
 });
