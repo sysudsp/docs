@@ -5,6 +5,7 @@ export default defineConfig({
   icon: '/rspress-icon.png',
   lang: 'zh',
   logoText: 'DSP 算法与硬件系统实验',
+  mediumZoom: false,
   themeConfig: {
     lastUpdated: true,
     // socialLinks: [
