@@ -8,5 +8,6 @@
   "ide",
   "mx-project",
   "mx-user-code",
-  "stm32cubeide-basic"
+  "stm32cubeide-basic",
+  "boot-mode"
 ]
