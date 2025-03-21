@@ -1,5 +1,9 @@
 [
-  "index",
+  {
+    "type": "file",
+    "name": "index",
+    "label": "序"
+  },
   "00-assembly",
   "01-basic-io.md",
   "02-timer-and-interrupt.md",
