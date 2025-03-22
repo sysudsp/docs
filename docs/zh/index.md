@@ -2,19 +2,15 @@
 pageType: home
 
 hero:
-  name: My Site
-  text: A cool website!
-  tagline: This is the tagline
+  name: DSP 算法与硬件系统实验
+  text: 实验教程
   actions:
     - theme: brand
-      text: Quick Start
+      text: 指南
       link: /guide/
     - theme: alt
-      text: GitHub
-      link: https://github.com/web-infra-dev/rspress
-  image:
-    src: /rspress-icon.png
-    alt: Logo
+      text: 参考
+      link: /reference/
 features:
   - title: Blazing fast build speed
     details: The core compilation module is based on the Rust front-end toolchain, providing a more ultimate development experience.
