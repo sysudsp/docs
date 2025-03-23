@@ -59,6 +59,23 @@ Visual Studio Code 本身作为一个代码编辑器，并没有内置 STM32 平
 | --- | --- |
 | ![导入 CMake 项目](./assets/import-cmake-project.png) | ![调试](./assets/vscode-debug.png) |
 
+## 选项三：Keil μVision
+
+一些较老的教程可能会使用 Keil MDK-ARM 作为 IDE。如果你喜欢这款软件，它也是能够用于本实验教程的。
+
+### 下载和安装
+
+软件的激活不在教学范围内。
+
+- [MDK-ARM v5](https://www.keil.com/mdk5)
+- [STM32CubeMX](https://www.st.com.cn/content/st_com/zh/stm32cubemx.html)
+
+### 使用
+
+在 STM32CubeMX 软件中创建项目，并配置为生成 MDK-ARM 工程即可，根据实际情况调整目录和版本。生成完成后，目录中存在 Keil μVision 工程文件，直接打开即可。
+
+![Toolchain / IDE](./assets/mx-mdk-arm.png)
+
 ## 其他选项
 
 没有人限制你必须遵循上面的说明！你可以自由探索自己喜欢的开发方式，以下是一些可能有所帮助的链接。
