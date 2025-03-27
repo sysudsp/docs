@@ -3,7 +3,6 @@ import { defineConfig } from 'rspress/config';
 export default defineConfig({
   base: '/docs/',
   title: 'DSP 算法与硬件系统实验',
-  icon: '/rspress-icon.png',
   lang: 'zh',
   logoText: 'DSP 算法与硬件系统实验',
   mediumZoom: false,
