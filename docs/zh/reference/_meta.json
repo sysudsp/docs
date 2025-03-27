@@ -9,5 +9,6 @@
   "mx-project",
   "mx-user-code",
   "stm32cubeide-basic",
-  "boot-mode"
+  "boot-mode",
+  "install-driver-by-wu"
 ]
