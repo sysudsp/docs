@@ -10,5 +10,6 @@
   "mx-user-code",
   "stm32cubeide-basic",
   "boot-mode",
-  "install-driver-by-wu"
+  "install-driver-by-wu",
+  "program-method"
 ]
